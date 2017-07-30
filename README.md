@@ -19,7 +19,7 @@ You have to install the plugins below to make sure this work fine in your own co
         `Solve the problem that exist with the input function`
 
 ## How to use
-Just replace the `User` folder with this reposite in the installation folder of sublime text3.
+Just replace the `User` folder with this repository in  folder of sublime text3. `Remember to rename the folder as "User" for it is "User_win" original`
 The path of the folder in different operating system.
 ```
 OS X: ~/Library/Application Support/Sublime Text 3/Packages/
